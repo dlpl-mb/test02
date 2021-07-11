@@ -9,7 +9,7 @@
 <br>4
 ![relativ](docs/static/Kopf_zahl.jpg)
 <br>55
-![relativ](/github:dlpl-mb/test02/docs/static/Kopf_zahl.jpg)
+![relativ](https://github:dlpl-mb/test02/docs/static/Kopf_zahl.jpg)
 
 
 Use the accelerometer and the screen to build a **Rock Paper Scissors** game that you can play with your friends!
