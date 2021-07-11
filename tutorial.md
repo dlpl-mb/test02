@@ -3,13 +3,13 @@
 <br>1
 ![Relativ](mecha.png)
 <br>3
-![Absolut](/docs/static/Kopf_zahl.jpg)
+![Absolut](https://github.com/dlpl-mb/test02/blob/061a85476a98ad0b4a9c567db5cef5546e57e675/mecha.png)
 <br>4
 ![relativ](docs/static/Kopf_zahl.jpg)
 <br>55
 ![relativ](https://github:dlpl-mb/test02/blob/master/docs/static/Kopf_zahl.jpg)
 <figure><img src="docs/static/Kopf_zahl.jpg?baa111"><figcaption>image caption</figcaption></figure>
-<img src="./docs/static/Kopf_zahl.jpg">
+<img src="https://github.com/dlpl-mb/test02/blob/061a85476a98ad0b4a9c567db5cef5546e57e675/mecha.png">
 
 Use the accelerometer and the screen to build a **Rock Paper Scissors** game that you can play with your friends!
 
