@@ -1,13 +1,13 @@
 # tutorial
 
 ## Introduction @unplugged
-1
+<br>1
 ![Cartoon of the Rock Paper Scissors game](/static/mb/projects/a4-motion.png)
-2
+<br>2
 ![Relativ](./docs/static/Kopf_zahl.jpg)
-3
+<br>3
 ![Absolut](/docs/static/Kopf_zahl.jpg)
-4
+<br>4
 ![relativ](docs/static/Kopf_zahl.jpg)
 
 Use the accelerometer and the screen to build a **Rock Paper Scissors** game that you can play with your friends!
