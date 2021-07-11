@@ -1,8 +1,7 @@
 # tutorial
 
 ## Introduction @unplugged
-<br>1
-![Cartoon of the Rock Paper Scissors game](/static/mb/projects/a4-motion.png)
+
 <br>2
 ![Relativ](./docs/static/Kopf_zahl.jpg)
 <br>3
