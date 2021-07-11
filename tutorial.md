@@ -9,7 +9,7 @@
 <img width="400px" src="https://github.com/dlpl-mb/test02/blob/master/mecha.png?raw=1">
 <br>888
 
-<img width="400px" src="https://github.com/dlpl-mb/test02/blob/master/kkk.png?raw=1">
+<img width="400px" src="https://github.com/dlpl-mb/test02/blob/master/docs/static/ein.png?raw=1">
 <br>1
 ![Relativ](./mecha.png?raw=1)
 <br>3ja
