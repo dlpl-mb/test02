@@ -1,6 +1,4 @@
 # tutortest
-
-
 ## Introduction @unplugged
 <br>1
 ![Cartoon of the Rock Paper Scissors game](/static/mb/projects/a4-motion.png)
