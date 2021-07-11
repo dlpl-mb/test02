@@ -5,6 +5,8 @@
 ![Cartoon of the Rock Paper Scissors game](/static/mb/projects/a4-motion.png)
 ![Relativ](./docs/static/Kopf_zahl.jpg)
 ![Absolut](/docs/static/Kopf_zahl.jpg)
+![relativ](docs/static/Kopf_zahl.jpg)
+
 Use the accelerometer and the screen to build a **Rock Paper Scissors** game that you can play with your friends!
 
 ## Step 1 @fullscreen
