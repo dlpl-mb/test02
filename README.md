@@ -1,7 +1,7 @@
 
 > Diese Seite bei [https://dlpl-mb.github.io/test02/](https://dlpl-mb.github.io/test02/) öffnen
 
-## Als Erweiterung verwenden
+## Als Erweiterung verwenden sssssssssssssssss
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
